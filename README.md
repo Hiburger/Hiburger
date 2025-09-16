@@ -15,6 +15,7 @@ I'm a **Junior IT Infrastructure & Operations Specialist** at [Infomaniak.com - 
 - Growing my smol coding skills, one line at a time...
 - Experimenting with machine learning and automation
 - Supporting Oreon Linux: I am the CM.
+- Trying to make my very own linux distro! :D
 
 ## ⚡ (Fun) Facts
 
