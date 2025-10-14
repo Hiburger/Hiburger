@@ -11,16 +11,16 @@ I'm a **Junior IT Infrastructure & Operations Specialist** at [Infomaniak.com - 
 
 ## 🌱 What I'm Working On
 
-- Keeping Infomaniak's ethical cloud running smoothly <3
-- Growing my smol coding skills, one line at a time...
+- Infomaniak's Infrastructure and services <3
+- Growing my smol coding skills, one silly line at a time
 - Experimenting with machine learning and automation
-- Supporting Oreon Linux: I am the CM.
-- Trying to make my very own linux distro! :D
+- oreonproject: Administrator
+- Trying to make my very own linux distro: LuminOS! (Send help please...)
 
-## ⚡ (Fun) Facts
+## ⚡ (Fun?) Facts
 
 - I have hands-on experience managing and moderating online communities
-- Always eager to explore new tech frontiers and gadgets
+- Always willing to explore new tech frontiers and gadgets
 - Make it better, make it open source!
 - I enjoy designing UIs / UX and giving them a fresh, modern look
   
@@ -28,8 +28,12 @@ I'm a **Junior IT Infrastructure & Operations Specialist** at [Infomaniak.com - 
 
 - [Instagram](https://www.instagram.com/hello_iam_gabriel?igsh=MXNreTQ3MXQ2ZjEzbw==)  
 - [LinkedIn](https://www.linkedin.com/in/gabriel-p-150632375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- Discord: **nuggetgabriel** (username) 
+- Discord: **nuggetgabriel** (username)
 
+## ❤️ Wanna talk? Sure!
+- gabriel.paesano@etik.com
+- nuggetgabriel on Discord
+- somewhere else? 
 ---
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiburger&show_icons=true&hide_title=true&theme=default)
