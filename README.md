@@ -4,7 +4,7 @@
 
 I'm a **Junior IT Infrastructure & Operations Specialist** at [Infomaniak.com - The Ethical Cloud](https://infomaniak.com), where I help build and maintain reliable, sustainable tech solutions. My journey in tech started (many years ago!) with a passion for all things computer science, from IT equipment to a growing curiosity for machine learning.
 
-- 💻 Currently learning: **HTML**, **CSS**, and **C#**
+- 💻 Currently learning: **HTML**, **C#**, **Go**
 - 🛠️ Skills: IT infrastructure, operations, computer hardware, basic coding, machine learning fundamentals (I'm still learning, not a pro)
 - 🧠 Interests: All things tech, cloud, ethical computing, and online community management/moderation
 - 📸 I love taking photos 
