@@ -22,10 +22,10 @@ I'm a **Junior IT Infrastructure & Operations Specialist** at [Infomaniak.com - 
 
 ## 🌐 Wanna talk? :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hello_iam_gabriel) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/gabriel-p](https://www.linkedin.com/in/gabriel-p-150632375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/gabriel-p](https://www.linkedin.com/in/gabriel-p-150632375)?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Guy_From_The_Cloud/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gabrielpaesano) 
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) : nuggetgabriel (username)
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) for discord: nuggetgabriel (username)
 
 
 # 💻 Tech i'm experiencing with and know something about:
