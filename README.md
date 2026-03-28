@@ -2,25 +2,26 @@
 
 ## 🚀 About Me
 
-I'm a **Junior IT Infrastructure & Operations Specialist** at [Infomaniak.com - The Ethical Cloud](https://infomaniak.com), where I help build and maintain reliable, sustainable tech solutions. My journey in tech started (many many years ago!) with a passion for all things computer science, from IT equipment to a growing curiosity for machine learning.
+I'm a **Junior IT Infrastructure & Operations Specialist** at [Infomaniak.com — The Ethical Cloud](https://infomaniak.com), where I help build and maintain reliable, sustainable tech solutions. My journey in tech started (many many years ago!) with a passion for all things computer science, from IT equipment to a growing curiosity for machine learning.
 
-- 💻 Currently learning: **Python**, **C#**, **Go**, **...and more**
-- 🛠️ Skills: Linux, GNU, IT infrastructure, operations, hardware, basic coding, machine learning fundamentals (I'm still learning, not a pro!)
+- 💻 Currently learning: **Python**, **Bash**, **Go**, **...and more**
+- 🛠️ Skills: Linux, GNU Linux, IT infrastructure, PM, hardware, basic coding, machine learning fundamentals (I'm still learning, not a pro!)
 - 🧠 Interests: All things tech, cloud, ethical computing, AI, and online community management/moderation
-- 📸 I love taking photos 
+- 📸 I love taking photos with my GoPro or my Google Pixel 9 Pro XL.
 
 ## 🌱 What I'm Working On
 
 - Infomaniak's Infrastructure and operations (check infomaniak.com) <3
 - Growing my smol coding skills, one silly line at a time
 - Experimenting with machine learning
-- oreonproject.org : Project Leader
-- LuminOS : another cute linux distro, in active devlopment. (need help pls!)
+- LuminOS : Project Leader & Founder 
+- BasaltOa: Project Leader 
 - my life?
 
 
 
-## 🌐 Let's talk!
+## 🌐 Let's talk! 
+(Some links here are broken sorry...)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hello_iam_gabriel) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/gabriel-p](https://www.linkedin.com/in/gabriel-p-150632375)?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Guy_From_The_Cloud/) 
@@ -34,6 +35,6 @@ I'm a **Junior IT Infrastructure & Operations Specialist** at [Infomaniak.com - 
 ## ⚡ Extra
 
 - Always willing to explore new tech frontiers and gadgets
-- open source on top!
+- FOSS and ethical tech on top!
 - I enjoy designing UIs / UX with fresh, modern look
-- i'm good at typos
+- i'm good at typos and enjoy food.
