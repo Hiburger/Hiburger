@@ -4,19 +4,19 @@
 
 I'm a **Junior IT Infrastructure & Operations Specialist** at [Infomaniak.com — The Ethical Cloud](https://infomaniak.com), where I help build and maintain reliable, sustainable tech solutions. My journey in tech started (many many years ago!) with a passion for all things computer science, from IT equipment to a growing curiosity for machine learning.
 
-- 💻 Currently learning: **Python**, **Bash**, **Go**, **...and more**
-- 🛠️ Skills: Linux, GNU Linux, IT infrastructure, PM, hardware, basic coding, machine learning fundamentals (I'm still learning, not a pro!)
-- 🧠 Interests: All things tech, cloud, ethical computing, AI, and online community management/moderation
-- 📸 I love taking photos with my GoPro or my Google Pixel 9 Pro XL.
+- 💻 Currently learning: **Python**, **Bash**, **Go**, **React** ...and more!
+- 🛠️ Skills: Linux, GNU Linux, IT infrastructure, PM, hardware, basic coding, ML fundamentals
+- 🧠 Interests: All things tech, cloud, ethical computing, AI, and FOSS.
+- 📸 I love taking photos with my GoPro or my Pixel 9 Pro XL.
 
 ## 🌱 What I'm Working On
 
-- Infomaniak's Infrastructure and operations (check infomaniak.com) <3
+- Infomaniak's Infrastructure and operations (see infomaniak.com) <3
 - Growing my smol coding skills, one silly line at a time
 - Experimenting with machine learning
 - LuminOS : Project Leader & Founder 
-- BasaltOa: Project Leader 
-- my life?
+- BasaltOS: Project Leader 
+- my life i guess?
 
 
 
