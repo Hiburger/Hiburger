@@ -2,14 +2,14 @@
 
 ## `whoami`
 
-I am a Junior (AKA Apprentice i guess) **"IT Infrastructure & Operations Specialist"** at [Infomaniak Network SA — The Ethical Cloud](https://infomaniak.com).
+I am an Apprentice **"IT Infrastructure & Operations Specialist"** at [Infomaniak Network SA — The Ethical Cloud](https://infomaniak.com).
 My journey in tech started (many many years ago!) with a passion for all things computers, from IT equipment to a growing curiosity for ML.
 
-- 💻 Currently learning: **Python**, **Bash**, **Go**, **React** ...and more!
-- 🛠️ Stuff I kinda know: Linux, GNU Linux, "infrastructure", PM, hardware, basic coding, ML fundamentals. I also know how to use a computer! :D
+- 💻 Currently learning: **Python**, **Bash**, **Go**, ...and more!
+- 🛠️ Stuff I _kinda_ know: Linux, GNU Linux, "infrastructure", PM, hardware, basic coding, ML fundamentals. I also know how to use a computer! :D
 - 🧠 Interests: All things tech, cloud, ethical computing, AI, and FOSS.
-- 📸 I enjoy taking photos with my GoPro HERO 12 or my Pixel 9 Pro XL.
-- 💖 Loooove to support the FSF, OSI, GNU, Mozilla and projects like that because that's how tech should be
+- 📸 I enjoy taking photos with my GoPro HERO 12, Nikon D7000, or my Pixel 9 Pro XL.
+- 💖 I support the FSF, OSI, GNU, Mozilla and projects like that because that's how tech should be
 - 📱 Rooting phones, tablets, amazon echo shows, ... i'd say anything atp. Maybe even a dishwasher. 
 
 ## 🌱 What I'm Working On
@@ -18,14 +18,14 @@ My journey in tech started (many many years ago!) with a passion for all things 
 - Infomaniak's Infrastructure and operations (see infomaniak.com) <3
 - Growing my limited coding skills, one silly line at a time
 - Experimenting with machine learning and AI AI AI AI AI AI AI
-- The Olynthe Project: Project Leader & Founder 
+- The Olynthe Foundation (olynthe.org)
 - BasaltOS: Project Leader
 - RaaS (Root-As-A-Service)
-- my life i guess?
+- my life
 
 
 
-## 🌐 Let's talk! 
+## 🌐 We may talk
 [Instagram](https://instagram.com/hello_iam_gabriel) | [LinkedIn](https://www.linkedin.com/in/gabriel-p-150632375) | [Reddit](https://www.reddit.com/user/Guy_From_The_Cloud/) | [YouTube](https://youtube.com/@gabrielpaesano) | Discord? -> the_art_of_linux (username) | Or you may simply email me at this point: gabriel.paesano@olynthe.org
 
 
@@ -38,9 +38,10 @@ My journey in tech started (many many years ago!) with a passion for all things 
 - FOSS and ethical tech on top!!!!!!!!!!!!!!!!!!!
 - I enjoy designing UIs / UX with fresh, modern look
 - i'm good at typos and enjoy food
-- push to prod on friday because idc the day or date or whatever just do it
-- I use arch btw. Tho i also use debian, and ubuntu server edition. I also enjoy Fedora & MacOS.
-- Windows sucks. If i see you on windows i swear i-
+- Anyone should push to prod on friday because dont care the day or date or whatever just do it
+- I use arch btw. Proxmox VE for my homelab. I also enjoy Fedora & MacOS.
+- Windows sucks. 10 was fine actually, windows 11 could have been perfect but no, they made it terrible
+- i like animals and plants. 
 
 
 :3
