@@ -34,6 +34,8 @@ order matters:
 | Phones | Google Pixel |
 | Computers | Framework, Apple |
 | Cameras | Nikon, Lumix, Fujifilm |
+| DIY boards | RPI, Arduino |
+| IDEs | Zed (Preview) |
 
 ## I'm shy, but i don't bite
 
