@@ -4,11 +4,11 @@
 
 I am an Apprentice **IT Infrastructure & Operations Specialist** at [Infomaniak Network SA](https://infomaniak.com), the ethical cloud provider based in Switzerland. My journey in tech started many years ago with a passion for all things computers. I'm also a student, and a crazy open source person according to my classmates. 
 
-- 💻 **Currently learning:** ML
-- 🛠️ **Familiar with:** Linux/Unix systems (Windows and MacOS too!), Infrastructure, Project Management, Hardware, ML fundamentals
-- 🧠 **Interests:** Cloud infrastructure, ethical computing, AI/ML, free libre open source software advocacy
-- 📸 **Photography:** GoPro HERO 12, Nikon D7000, Pixel 9 Pro XL
-- 💖 **Supports:** FSF, OSI, GNU, Mozilla, and open-source initiatives
+- **Currently learning:** ML. Wait, how could i give specifc topics. that makes no sens. i learn different things daily. 
+- **Familiar with:** Linux/Unix systems (Windows and MacOS too!), Infrastructure, Project Management, Hardware, ML fundamentals
+- **Interests:** Cloud infrastructure, ethical computing, AI/ML, free libre open source software advocacy
+- **Photography:** GoPro HERO 12, Nikon D7000, Pixel 9 Pro XL
+- **Supports:** FSF, OSI, GNU, Mozilla, and open-source initiatives
 
 ## What I'm Working On
 
@@ -26,6 +26,15 @@ I am an Apprentice **IT Infrastructure & Operations Specialist** at [Infomaniak 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
+## My Favorite Groups
+order matters:
+
+| Category | Companies |
+|----------|-----------|
+| Phones | Google Pixel |
+| Computers | Framework, Apple |
+| Cameras | Nikon, Lumix, Fujifilm |
+
 ## I'm shy, but i don't bite
 
 [**LinkedIn**](https://www.linkedin.com/in/gabriel-p-150632375) | [**Instagram**](https://instagram.com/hello_iam_gabriel) | [**YouTube**](https://youtube.com/@gabrielpaesano) | [**Reddit**](https://www.reddit.com/user/Guy_From_The_Cloud/)
@@ -35,12 +44,13 @@ I am an Apprentice **IT Infrastructure & Operations Specialist** at [Infomaniak 
 
 ## Fluff
 
-- Daily driver: Cachy Linux // MacOS (Proxmox for homelab)
-- Enjoy: UI/UX design
-- Outside tech: Photography, nature, animals
-- Philosophy: Ethical tech and digital rights matter !
-- jw.org <3
+I think my life can be summarized in 3 words: Ethical Tech & Photography
 
+- Daily driver: Cachy Linux // MacOS (Proxmox homelab)
+- Enjoy: UI/UX design
+- Outside tech: Photography, wildlife, astronomy
+- Philosophy: Ethical tech and digital rights first !
+- jw.org
 ---
 
 *thanks for stopping by* 😊
