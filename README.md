@@ -31,10 +31,10 @@ order matters:
 
 | Category | Companies |
 |----------|-----------|
-| Phones | Google Pixel |
-| Computers | Framework, Apple |
+| Phones | Google Pixel, Fairphone, Nothing |
+| Computers | Framework, Apple, Dell |
 | Cameras | Nikon, Lumix, Fujifilm |
-| DIY boards | RPI, Arduino |
+| DIY boards | RPI, Arduino, flipper zero |
 | IDEs | Zed (Preview) |
 
 ## I'm shy, but i don't bite
