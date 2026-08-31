@@ -1,8 +1,9 @@
-# Hello, I'm Gabriel!
+# Hello, I'm Gabriel!  
+![Infomaniak](https://img.shields.io/badge/infomaniak-111111?style=flat&logo=infomaniak)
 
 ## `whoami`
 
-I am an Apprentice **IT Infrastructure & Operations Specialist** at [Infomaniak Network SA](https://infomaniak.com), the ethical cloud provider based in Switzerland. My journey in tech started many years ago with a passion for all things computers. I'm also a student, and a crazy open source person according to my classmates. 
+I am an Apprentice **IT Infrastructure & Operations Specialist** at [Infomaniak Network SA](https://infomaniak.com) , the ethical cloud provider based in Switzerland. My journey in tech started many years ago with a passion for all things computers. I'm also a student, and a crazy open source person according to my classmates. 
 
 - **Currently learning:** ML. Wait, how could i give specifc topics. that makes no sens. i learn different things daily. 
 - **Familiar with:** Linux/Unix systems (Windows and MacOS too!), Infrastructure, Project Management, Hardware, ML fundamentals
