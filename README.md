@@ -40,10 +40,8 @@ order matters:
 
 ## I'm shy, but i don't bite
 
-[**LinkedIn**](https://www.linkedin.com/in/gabriel-p-150632375) | [**Instagram**](https://instagram.com/hello_iam_gabriel) | [**YouTube**](https://youtube.com/@gabrielpaesano) | [**Reddit**](https://www.reddit.com/user/Guy_From_The_Cloud/)
-
-**Discord:** the_art_of_linux  
-**Email:** gabriel.paesano@olynthe.org
+Please reach out ! If you want to talk to me, you will find some of my socials on this page.  
+Kindly mention that you are coming from GitHub tho, or I may just assume you are a scammer :( 
 
 ## Fluff
 
