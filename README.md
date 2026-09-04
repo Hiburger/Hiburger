@@ -43,6 +43,9 @@ order matters:
 Please reach out ! If you want to talk to me, you will find some of my socials on this page.  
 Kindly mention that you are coming from GitHub tho, or I may just assume you are a scammer :( 
 
+BTW, i'm on HF ! 
+https://huggingface.co/the-art-of-linux
+
 ## Fluff
 
 I think my life can be summarized in 3 words: Ethical Tech & Photography
