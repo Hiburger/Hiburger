@@ -37,6 +37,7 @@ order matters:
 | Cameras | Nikon, Lumix, Fujifilm |
 | DIY boards | RPI, Arduino, flipper zero |
 | IDEs | Zed (Preview) |
+| Game Platforms | Nintendo, Steam, XBOX | 
 
 ## I'm shy, but i don't bite
 
