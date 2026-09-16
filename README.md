@@ -3,6 +3,8 @@
 
 ## `whoami`
 
+-> You may move to my [website](gabriel.olynthe.org), it is more up-to-date than this readme
+
 I am an Apprentice **IT Infrastructure & Operations Specialist** at [Infomaniak Network SA](https://infomaniak.com) , the ethical cloud provider based in Switzerland. My journey in tech started many years ago with a passion for all things computers. I'm also a student, and a crazy open source person according to my classmates. 
 
 - **Currently learning:** ML. Wait, how could i give specifc topics. that makes no sens. i learn different things daily. 
